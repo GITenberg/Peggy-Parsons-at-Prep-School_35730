@@ -1,0 +1,28 @@
+_repo: Peggy-Parsons-at-Prep-School_35730
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35730-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Sharp, Annabel
+    gutenberg_agent_id: '37862'
+    url: http://www.gutenberg.org/2009/agents/37862
+description: ''
+gutenberg_issued: '2011-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Charity -- Juvenile fiction'
+title: Peggy Parsons at Prep School
+url: http://www.gutenberg.org/ebooks/35730
